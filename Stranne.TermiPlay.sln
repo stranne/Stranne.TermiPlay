@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stranne.TermiPlay.Examples.LeapAndDoge", "Stranne.TermiPlay.Examples.LeapAndDoge\Stranne.TermiPlay.Examples.LeapAndDoge.csproj", "{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{0FAE853F-BDB2-4B7B-A9B9-26000ABCE082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stranne.TermiPlay.GameEngine", "Stranne.TermiPlay.GameEngine\Stranne.TermiPlay.GameEngine.csproj", "{882267F6-F1D1-47C0-A4BB-B780AF418C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882267F6-F1D1-47C0-A4BB-B780AF418C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882267F6-F1D1-47C0-A4BB-B780AF418C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882267F6-F1D1-47C0-A4BB-B780AF418C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882267F6-F1D1-47C0-A4BB-B780AF418C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF} = {0FAE853F-BDB2-4B7B-A9B9-26000ABCE082}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A746EFF-9739-4B3B-A165-CEF7879CE356}
