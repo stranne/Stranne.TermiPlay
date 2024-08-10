@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stranne.TermiPlay.Examples.LeapAndDoge", "Stranne.TermiPlay.Examples.LeapAndDoge\Stranne.TermiPlay.Examples.LeapAndDoge.csproj", "{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stranne.TermiPlay.Examples.Pong", "Stranne.TermiPlay.Examples.Pong\Stranne.TermiPlay.Examples.Pong.csproj", "{0E69225A-AFA5-4D33-AB4B-74C55B46D7FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{0FAE853F-BDB2-4B7B-A9B9-26000ABCE082}"
 EndProject
