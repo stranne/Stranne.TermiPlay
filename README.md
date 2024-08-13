@@ -11,3 +11,9 @@
 ## Purpose
 
 **TermiPlay** was developed as a short coding challenge to explore the mechanics of game engine development.
+
+## Example project
+
+There is a simple Pong example game implementing using the engine.
+
+![Screenshot](./screenshot.png)
